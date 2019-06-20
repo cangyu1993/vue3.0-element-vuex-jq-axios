@@ -14,6 +14,7 @@
     "jquery": "^3.4.1",
     "qs": "^6.7.0",
     "vue": "^2.6.10",
+    "vue-grid-layout": "^2.3.4",
     "vue-router": "^3.0.6",
     "vue-touch-ripple": "^3.0.0",
     "vuedraggable": "^2.21.0",
